@@ -1,5 +1,5 @@
 # Unity-VAT
-Vertex Texture Animation tool for Unity
+Vertex Animation Texture tool for Unity
 
 
 _Disclaimer: I made this quickly and it might be confusing or/and contains mistakes, it's a small simple tool, use it at your own risk! Also you should be a bit familiar with Unity and ShaderGraph._
